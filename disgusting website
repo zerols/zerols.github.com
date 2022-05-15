@@ -1,0 +1,28 @@
+        *://*/so.php
+        *://*/so.php?s=*
+        *://*/cha.php?s=*
+        *://*/list.php?s=*
+        *://*/?s=*
+        *://*/so/*
+        title/^小.(百科|知识)网$/
+        title/^.*[ ]-[ ]小.(百科|知识)网$/
+        title/.*点击一次就可以出国/
+        title/.*一键访问国外网站/
+*://codeantenna.com/*
+*://www.codeleading.com/*
+*://www.1024sou.com/*
+*://www.programminghunter.com/*
+*://www.its404.com/*
+*://www.pianshen.com/*
+*://cdmana.com/*
+*://cxybb.com/*
+*://www.bbsmax.com/*
+*://www.4k8k.xyz/*
+*://www.shuzhiduo.com/*
+*://bubuko.com/*
+*://www.cxymm.net/*
+*://www.yisu.com/*
+*://python.iitter.com/*
+*://javajgs.com/*
+*://www.joyk.com/*
+*://i4k.xyz/*
