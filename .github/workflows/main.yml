@@ -1,0 +1,9 @@
+- name: Packer qemu build
+  # You may pin to the exact commit or the version.
+  # uses: enr0s/packer-qemu-action@6f6841faa54c874bccfdfa4a6410b47b0acb69e8
+  uses: enr0s/packer-qemu-action@v0.2
+  with:
+    # Packer template file to use for packer build
+    templateFile: # optional, default is packer-template.json
+    # Directory where the packer template is located
+    workingDir: # optional, default is .
